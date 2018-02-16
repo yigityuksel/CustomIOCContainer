@@ -1,0 +1,5 @@
+c:\users\y.yuksel\documents\visual studio 2015\Projects\CustomIOCContainer\CustomIOC\bin\Debug\CustomIOC.dll
+c:\users\y.yuksel\documents\visual studio 2015\Projects\CustomIOCContainer\CustomIOC\bin\Debug\CustomIOC.pdb
+c:\users\y.yuksel\documents\visual studio 2015\Projects\CustomIOCContainer\CustomIOC\obj\Debug\CustomIOC.csprojResolveAssemblyReference.cache
+c:\users\y.yuksel\documents\visual studio 2015\Projects\CustomIOCContainer\CustomIOC\obj\Debug\CustomIOC.dll
+c:\users\y.yuksel\documents\visual studio 2015\Projects\CustomIOCContainer\CustomIOC\obj\Debug\CustomIOC.pdb

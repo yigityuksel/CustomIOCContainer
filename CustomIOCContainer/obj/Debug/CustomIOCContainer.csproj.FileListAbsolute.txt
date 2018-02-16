@@ -1,0 +1,8 @@
+c:\users\y.yuksel\documents\visual studio 2015\Projects\CustomIOCContainer\CustomIOCContainer\bin\Debug\CustomIOCContainer.exe.config
+c:\users\y.yuksel\documents\visual studio 2015\Projects\CustomIOCContainer\CustomIOCContainer\bin\Debug\CustomIOCContainer.exe
+c:\users\y.yuksel\documents\visual studio 2015\Projects\CustomIOCContainer\CustomIOCContainer\bin\Debug\CustomIOCContainer.pdb
+c:\users\y.yuksel\documents\visual studio 2015\Projects\CustomIOCContainer\CustomIOCContainer\obj\Debug\CustomIOCContainer.csprojResolveAssemblyReference.cache
+c:\users\y.yuksel\documents\visual studio 2015\Projects\CustomIOCContainer\CustomIOCContainer\obj\Debug\CustomIOCContainer.exe
+c:\users\y.yuksel\documents\visual studio 2015\Projects\CustomIOCContainer\CustomIOCContainer\obj\Debug\CustomIOCContainer.pdb
+c:\users\y.yuksel\documents\visual studio 2015\Projects\CustomIOCContainer\CustomIOCContainer\bin\Debug\CustomIOC.dll
+c:\users\y.yuksel\documents\visual studio 2015\Projects\CustomIOCContainer\CustomIOCContainer\bin\Debug\CustomIOC.pdb
